@@ -1,2 +1,2 @@
 # beggie
-my first github repository
+my first Git repository
